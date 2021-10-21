@@ -4,7 +4,7 @@ Intutitively, you can resolve the other files mandates_by_country.csv, mandates_
 you like from the file above.
 
 mandates_by_state.xlsw is just the sorted and filtered version. You can see the same 12 States that have no mask
-mandates as nomask_map_20201209.jpg
+mandates as nomask_map_20201209.jpg.
 
 https://www.mercurynews.com/2020/12/09/most-u-s-states-now-require-face-masks-to-reduce-the-spread-of-covid-19-these-12-are-the-ones-that-dont/
 
