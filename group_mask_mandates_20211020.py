@@ -33,7 +33,7 @@ file = 'U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_thro
 #             continue
 #
 #         date = datetime.strptime(tmp[4], '%m/%d/%Y')
-#         mth = datetime.strftime(date, '%Y%m')
+#         mth = datetime.strftime(date, '%Y%m%d')
 #         # print(date)
 #         # print(mth)
 #
@@ -74,7 +74,7 @@ with open(r'Resources\mandates_raw.csv', 'r') as fr:
         line = line.strip()
         tmp = line.split(',')
 
-        k = f'{tmp[0]},{tmp[1]},{tmp[2]}'
+        k = f'{tmp[0]},{tmp[1]},{tmp[2][:6]}'
         v = int(tmp[3])
 
         dicy[k] += v
