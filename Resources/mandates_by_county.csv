@@ -1,4 +1,33 @@
 state,county,maskdays,days,maskcoverage
+AK,Aleutians East Borough,0,493,0
+AK,Aleutians West Census Area,0,493,0
+AK,Anchorage Municipality,0,493,0
+AK,Bethel Census Area,0,493,0
+AK,Bristol Bay Borough,0,493,0
+AK,Denali Borough,0,493,0
+AK,Dillingham Census Area,0,493,0
+AK,Fairbanks North Star Borough,0,493,0
+AK,Haines Borough,0,493,0
+AK,Hoonah-Angoon Census Area,0,493,0
+AK,Juneau City and Borough,0,493,0
+AK,Kenai Peninsula Borough,0,493,0
+AK,Ketchikan Gateway Borough,0,493,0
+AK,Kodiak Island Borough,0,493,0
+AK,Kusilvak Census Area,0,493,0
+AK,Lake and Peninsula Borough,0,493,0
+AK,Matanuska-Susitna Borough,0,493,0
+AK,Nome Census Area,0,493,0
+AK,North Slope Borough,0,493,0
+AK,Northwest Arctic Borough,0,493,0
+AK,Petersburg Borough,0,493,0
+AK,Prince of Wales-Hyder Census Area,0,493,0
+AK,Sitka City and Borough,0,493,0
+AK,Skagway Municipality,0,493,0
+AK,Southeast Fairbanks Census Area,0,493,0
+AK,Valdez-Cordova Census Area,0,493,0
+AK,Wrangell City and Borough,0,493,0
+AK,Yakutat City and Borough,0,493,0
+AK,Yukon-Koyukuk Census Area,0,493,0
 AL,Autauga County,267,493,0.54
 AL,Baldwin County,267,493,0.54
 AL,Barbour County,267,493,0.54
@@ -66,50 +95,6 @@ AL,Walker County,267,493,0.54
 AL,Washington County,267,493,0.54
 AL,Wilcox County,267,493,0.54
 AL,Winston County,267,493,0.54
-AK,Aleutians East Borough,0,493,0
-AK,Aleutians West Census Area,0,493,0
-AK,Anchorage Municipality,0,493,0
-AK,Bethel Census Area,0,493,0
-AK,Bristol Bay Borough,0,493,0
-AK,Denali Borough,0,493,0
-AK,Dillingham Census Area,0,493,0
-AK,Fairbanks North Star Borough,0,493,0
-AK,Haines Borough,0,493,0
-AK,Hoonah-Angoon Census Area,0,493,0
-AK,Juneau City and Borough,0,493,0
-AK,Kenai Peninsula Borough,0,493,0
-AK,Ketchikan Gateway Borough,0,493,0
-AK,Kodiak Island Borough,0,493,0
-AK,Kusilvak Census Area,0,493,0
-AK,Lake and Peninsula Borough,0,493,0
-AK,Matanuska-Susitna Borough,0,493,0
-AK,Nome Census Area,0,493,0
-AK,North Slope Borough,0,493,0
-AK,Northwest Arctic Borough,0,493,0
-AK,Petersburg Borough,0,493,0
-AK,Prince of Wales-Hyder Census Area,0,493,0
-AK,Sitka City and Borough,0,493,0
-AK,Skagway Municipality,0,493,0
-AK,Southeast Fairbanks Census Area,0,493,0
-AK,Valdez-Cordova Census Area,0,493,0
-AK,Wrangell City and Borough,0,493,0
-AK,Yakutat City and Borough,0,493,0
-AK,Yukon-Koyukuk Census Area,0,493,0
-AZ,Apache County,0,493,0
-AZ,Cochise County,0,493,0
-AZ,Coconino County,0,493,0
-AZ,Gila County,0,493,0
-AZ,Graham County,0,493,0
-AZ,Greenlee County,0,493,0
-AZ,La Paz County,0,493,0
-AZ,Maricopa County,0,493,0
-AZ,Mohave County,0,493,0
-AZ,Navajo County,0,493,0
-AZ,Pima County,0,493,0
-AZ,Pinal County,0,493,0
-AZ,Santa Cruz County,0,493,0
-AZ,Yavapai County,0,493,0
-AZ,Yuma County,0,493,0
 AR,Arkansas County,254,493,0.52
 AR,Ashley County,254,493,0.52
 AR,Baxter County,254,493,0.52
@@ -185,6 +170,26 @@ AR,Washington County,254,493,0.52
 AR,White County,254,493,0.52
 AR,Woodruff County,254,493,0.52
 AR,Yell County,254,493,0.52
+AS,Eastern District,18,493,0.04
+AS,Manu'a District,18,493,0.04
+AS,Rose Island,18,493,0.04
+AS,Swains Island,18,493,0.04
+AS,Western District,18,493,0.04
+AZ,Apache County,0,493,0
+AZ,Cochise County,0,493,0
+AZ,Coconino County,0,493,0
+AZ,Gila County,0,493,0
+AZ,Graham County,0,493,0
+AZ,Greenlee County,0,493,0
+AZ,La Paz County,0,493,0
+AZ,Maricopa County,0,493,0
+AZ,Mohave County,0,493,0
+AZ,Navajo County,0,493,0
+AZ,Pima County,0,493,0
+AZ,Pinal County,0,493,0
+AZ,Santa Cruz County,0,493,0
+AZ,Yavapai County,0,493,0
+AZ,Yuma County,0,493,0
 CA,Alameda County,424,493,0.86
 CA,Alpine County,424,493,0.86
 CA,Amador County,424,493,0.86
@@ -307,9 +312,7 @@ CO,Teller County,261,493,0.53
 CO,Washington County,261,493,0.53
 CO,Weld County,261,493,0.53
 CO,Yuma County,261,493,0.53
-DC,District of Columbia,386,493,0.78
 CT,Fairfield County,483,493,0.98
-FL,Alachua County,0,493,0
 CT,Hartford County,483,493,0.98
 CT,Litchfield County,483,493,0.98
 CT,Middlesex County,483,493,0.98
@@ -317,9 +320,11 @@ CT,New Haven County,483,493,0.98
 CT,New London County,483,493,0.98
 CT,Tolland County,483,493,0.98
 CT,Windham County,483,493,0.98
+DC,District of Columbia,386,493,0.78
 DE,Kent County,411,493,0.83
 DE,New Castle County,411,493,0.83
 DE,Sussex County,411,493,0.83
+FL,Alachua County,0,493,0
 FL,Baker County,0,493,0
 FL,Bay County,0,493,0
 FL,Bradford County,0,493,0
@@ -545,12 +550,112 @@ GA,Wilcox County,0,493,0
 GA,Wilkes County,0,493,0
 GA,Wilkinson County,0,493,0
 GA,Worth County,0,493,0
+GU,Guam,466,493,0.95
 HI,Hawaii County,486,493,0.99
 HI,Kalawao County,486,493,0.99
-ID,Ada County,0,493,0
 HI,Honolulu County,486,493,0.99
 HI,Kauai County,486,493,0.99
 HI,Maui County,486,493,0.99
+IA,Adair County,82,493,0.17
+IA,Adams County,82,493,0.17
+IA,Allamakee County,82,493,0.17
+IA,Appanoose County,82,493,0.17
+IA,Audubon County,82,493,0.17
+IA,Benton County,82,493,0.17
+IA,Black Hawk County,82,493,0.17
+IA,Boone County,82,493,0.17
+IA,Bremer County,82,493,0.17
+IA,Buchanan County,82,493,0.17
+IA,Buena Vista County,82,493,0.17
+IA,Butler County,82,493,0.17
+IA,Calhoun County,82,493,0.17
+IA,Carroll County,82,493,0.17
+IA,Cass County,82,493,0.17
+IA,Cedar County,82,493,0.17
+IA,Cerro Gordo County,82,493,0.17
+IA,Cherokee County,82,493,0.17
+IA,Chickasaw County,82,493,0.17
+IA,Clarke County,82,493,0.17
+IA,Clay County,82,493,0.17
+IA,Clayton County,82,493,0.17
+IA,Clinton County,82,493,0.17
+IA,Crawford County,82,493,0.17
+IA,Dallas County,82,493,0.17
+IA,Davis County,82,493,0.17
+IA,Decatur County,82,493,0.17
+IA,Delaware County,82,493,0.17
+IA,Des Moines County,82,493,0.17
+IA,Dickinson County,82,493,0.17
+IA,Dubuque County,82,493,0.17
+IA,Emmet County,82,493,0.17
+IA,Fayette County,82,493,0.17
+IA,Floyd County,82,493,0.17
+IA,Franklin County,82,493,0.17
+IA,Fremont County,82,493,0.17
+IA,Greene County,82,493,0.17
+IA,Grundy County,82,493,0.17
+IA,Guthrie County,82,493,0.17
+IA,Hamilton County,82,493,0.17
+IA,Hancock County,82,493,0.17
+IA,Hardin County,82,493,0.17
+IA,Harrison County,82,493,0.17
+IA,Henry County,82,493,0.17
+IA,Howard County,82,493,0.17
+IA,Humboldt County,82,493,0.17
+IA,Ida County,82,493,0.17
+IA,Iowa County,82,493,0.17
+IA,Jackson County,82,493,0.17
+IA,Jasper County,82,493,0.17
+IA,Jefferson County,82,493,0.17
+IA,Johnson County,82,493,0.17
+IA,Jones County,82,493,0.17
+IA,Keokuk County,82,493,0.17
+IA,Kossuth County,82,493,0.17
+IA,Lee County,82,493,0.17
+IA,Linn County,82,493,0.17
+IA,Louisa County,82,493,0.17
+IA,Lucas County,82,493,0.17
+IA,Lyon County,82,493,0.17
+IA,Madison County,82,493,0.17
+IA,Mahaska County,82,493,0.17
+IA,Marion County,82,493,0.17
+IA,Marshall County,82,493,0.17
+IA,Mills County,82,493,0.17
+IA,Mitchell County,82,493,0.17
+IA,Monona County,82,493,0.17
+IA,Monroe County,82,493,0.17
+IA,Montgomery County,82,493,0.17
+IA,Muscatine County,82,493,0.17
+IA,O'Brien County,82,493,0.17
+IA,Osceola County,82,493,0.17
+IA,Page County,82,493,0.17
+IA,Palo Alto County,82,493,0.17
+IA,Plymouth County,82,493,0.17
+IA,Pocahontas County,82,493,0.17
+IA,Polk County,82,493,0.17
+IA,Pottawattamie County,82,493,0.17
+IA,Poweshiek County,82,493,0.17
+IA,Ringgold County,82,493,0.17
+IA,Sac County,82,493,0.17
+IA,Scott County,82,493,0.17
+IA,Shelby County,82,493,0.17
+IA,Sioux County,82,493,0.17
+IA,Story County,82,493,0.17
+IA,Tama County,82,493,0.17
+IA,Taylor County,82,493,0.17
+IA,Union County,82,493,0.17
+IA,Van Buren County,82,493,0.17
+IA,Wapello County,82,493,0.17
+IA,Warren County,82,493,0.17
+IA,Washington County,82,493,0.17
+IA,Wayne County,82,493,0.17
+IA,Webster County,82,493,0.17
+IA,Winnebago County,82,493,0.17
+IA,Winneshiek County,82,493,0.17
+IA,Woodbury County,82,493,0.17
+IA,Worth County,82,493,0.17
+IA,Wright County,82,493,0.17
+ID,Ada County,0,493,0
 ID,Adams County,0,493,0
 ID,Bannock County,0,493,0
 ID,Bear Lake County,0,493,0
@@ -687,7 +792,6 @@ IL,St. Clair County,406,493,0.82
 IL,Saline County,406,493,0.82
 IL,Sangamon County,406,493,0.82
 IL,Schuyler County,406,493,0.82
-IN,Adams County,253,493,0.51
 IL,Shelby County,406,493,0.82
 IL,Stephenson County,406,493,0.82
 IL,Union County,406,493,0.82
@@ -696,8 +800,9 @@ IL,Washington County,406,493,0.82
 IL,White County,406,493,0.82
 IL,Whiteside County,406,493,0.82
 IL,Will County,406,493,0.82
-IN,Allen County,253,493,0.51
 IL,Winnebago County,406,493,0.82
+IN,Adams County,253,493,0.51
+IN,Allen County,253,493,0.51
 IN,Bartholomew County,253,493,0.51
 IN,Benton County,253,493,0.51
 IN,Blackford County,253,493,0.51
@@ -788,105 +893,6 @@ IN,Wayne County,253,493,0.51
 IN,Wells County,253,493,0.51
 IN,White County,253,493,0.51
 IN,Whitley County,253,493,0.51
-IA,Adair County,82,493,0.17
-IA,Adams County,82,493,0.17
-IA,Allamakee County,82,493,0.17
-IA,Appanoose County,82,493,0.17
-IA,Audubon County,82,493,0.17
-IA,Benton County,82,493,0.17
-IA,Black Hawk County,82,493,0.17
-IA,Boone County,82,493,0.17
-IA,Bremer County,82,493,0.17
-IA,Buchanan County,82,493,0.17
-IA,Buena Vista County,82,493,0.17
-IA,Butler County,82,493,0.17
-IA,Calhoun County,82,493,0.17
-IA,Carroll County,82,493,0.17
-IA,Cass County,82,493,0.17
-IA,Cedar County,82,493,0.17
-IA,Cerro Gordo County,82,493,0.17
-IA,Cherokee County,82,493,0.17
-IA,Chickasaw County,82,493,0.17
-IA,Clarke County,82,493,0.17
-IA,Clay County,82,493,0.17
-IA,Clayton County,82,493,0.17
-IA,Clinton County,82,493,0.17
-IA,Crawford County,82,493,0.17
-IA,Dallas County,82,493,0.17
-IA,Davis County,82,493,0.17
-IA,Decatur County,82,493,0.17
-IA,Delaware County,82,493,0.17
-IA,Des Moines County,82,493,0.17
-IA,Dickinson County,82,493,0.17
-IA,Dubuque County,82,493,0.17
-IA,Emmet County,82,493,0.17
-IA,Fayette County,82,493,0.17
-IA,Floyd County,82,493,0.17
-IA,Franklin County,82,493,0.17
-IA,Fremont County,82,493,0.17
-IA,Greene County,82,493,0.17
-IA,Grundy County,82,493,0.17
-IA,Guthrie County,82,493,0.17
-IA,Hamilton County,82,493,0.17
-IA,Hancock County,82,493,0.17
-IA,Hardin County,82,493,0.17
-IA,Harrison County,82,493,0.17
-IA,Henry County,82,493,0.17
-IA,Howard County,82,493,0.17
-IA,Humboldt County,82,493,0.17
-IA,Ida County,82,493,0.17
-IA,Iowa County,82,493,0.17
-IA,Jackson County,82,493,0.17
-IA,Jasper County,82,493,0.17
-IA,Jefferson County,82,493,0.17
-IA,Johnson County,82,493,0.17
-IA,Jones County,82,493,0.17
-IA,Keokuk County,82,493,0.17
-IA,Kossuth County,82,493,0.17
-IA,Lee County,82,493,0.17
-IA,Linn County,82,493,0.17
-IA,Louisa County,82,493,0.17
-IA,Lucas County,82,493,0.17
-IA,Lyon County,82,493,0.17
-IA,Madison County,82,493,0.17
-IA,Mahaska County,82,493,0.17
-IA,Marion County,82,493,0.17
-IA,Marshall County,82,493,0.17
-IA,Mills County,82,493,0.17
-IA,Mitchell County,82,493,0.17
-IA,Monona County,82,493,0.17
-IA,Monroe County,82,493,0.17
-IA,Montgomery County,82,493,0.17
-IA,Muscatine County,82,493,0.17
-IA,O'Brien County,82,493,0.17
-IA,Osceola County,82,493,0.17
-IA,Page County,82,493,0.17
-IA,Palo Alto County,82,493,0.17
-IA,Plymouth County,82,493,0.17
-IA,Pocahontas County,82,493,0.17
-IA,Polk County,82,493,0.17
-IA,Pottawattamie County,82,493,0.17
-IA,Poweshiek County,82,493,0.17
-IA,Ringgold County,82,493,0.17
-IA,Sac County,82,493,0.17
-IA,Scott County,82,493,0.17
-IA,Shelby County,82,493,0.17
-IA,Sioux County,82,493,0.17
-IA,Story County,82,493,0.17
-IA,Tama County,82,493,0.17
-IA,Taylor County,82,493,0.17
-IA,Union County,82,493,0.17
-IA,Van Buren County,82,493,0.17
-IA,Wapello County,82,493,0.17
-IA,Warren County,82,493,0.17
-IA,Washington County,82,493,0.17
-IA,Wayne County,82,493,0.17
-IA,Webster County,82,493,0.17
-IA,Winnebago County,82,493,0.17
-IA,Winneshiek County,82,493,0.17
-IA,Woodbury County,82,493,0.17
-IA,Worth County,82,493,0.17
-IA,Wright County,82,493,0.17
 KS,Allen County,271,493,0.55
 KS,Anderson County,271,493,0.55
 KS,Atchison County,271,493,0.55
@@ -1176,29 +1182,23 @@ LA,West Baton Rouge Parish,301,493,0.61
 LA,West Carroll Parish,301,493,0.61
 LA,West Feliciana Parish,301,493,0.61
 LA,Winn Parish,301,493,0.61
-ME,Aroostook County,388,493,0.79
-ME,Androscoggin County,388,493,0.79
-ME,Cumberland County,388,493,0.79
 MA,Franklin County,388,493,0.79
-MD,Allegany County,392,493,0.8
-ME,Franklin County,388,493,0.79
-ME,Hancock County,388,493,0.79
-ME,Kennebec County,388,493,0.79
-ME,Knox County,388,493,0.79
 MA,Barnstable County,388,493,0.79
-ME,Lincoln County,388,493,0.79
 MA,Middlesex County,388,493,0.79
-ME,Oxford County,388,493,0.79
-ME,Penobscot County,388,493,0.79
-ME,Piscataquis County,388,493,0.79
-ME,Sagadahoc County,388,493,0.79
 MA,Bristol County,388,493,0.79
+MA,Dukes County,388,493,0.79
+MA,Essex County,388,493,0.79
+MA,Berkshire County,388,493,0.79
+MA,Hampden County,388,493,0.79
+MA,Plymouth County,388,493,0.79
+MA,Hampshire County,388,493,0.79
+MA,Nantucket County,388,493,0.79
+MA,Norfolk County,388,493,0.79
+MA,Suffolk County,388,493,0.79
+MA,Worcester County,388,493,0.79
+MD,Allegany County,392,493,0.8
 MD,Baltimore County,392,493,0.8
-ME,Somerset County,388,493,0.79
-ME,Waldo County,388,493,0.79
 MD,Kent County,392,493,0.8
-ME,Washington County,388,493,0.79
-ME,York County,388,493,0.79
 MD,St. Mary's County,392,493,0.8
 MD,Wicomico County,392,493,0.8
 MD,Anne Arundel County,392,493,0.8
@@ -1208,7 +1208,6 @@ MD,Caroline County,392,493,0.8
 MD,Carroll County,392,493,0.8
 MD,Cecil County,392,493,0.8
 MD,Charles County,392,493,0.8
-MA,Dukes County,388,493,0.79
 MD,Dorchester County,392,493,0.8
 MD,Frederick County,392,493,0.8
 MD,Garrett County,392,493,0.8
@@ -1218,20 +1217,27 @@ MD,Montgomery County,392,493,0.8
 MD,Prince George's County,392,493,0.8
 MD,Queen Anne's County,392,493,0.8
 MD,Somerset County,392,493,0.8
-MA,Essex County,388,493,0.79
 MD,Talbot County,392,493,0.8
 MD,Washington County,392,493,0.8
 MD,Worcester County,392,493,0.8
-MA,Berkshire County,388,493,0.79
-MA,Hampden County,388,493,0.79
-MA,Plymouth County,388,493,0.79
-MA,Hampshire County,388,493,0.79
-MA,Nantucket County,388,493,0.79
-MA,Norfolk County,388,493,0.79
+ME,Aroostook County,388,493,0.79
+ME,Androscoggin County,388,493,0.79
+ME,Cumberland County,388,493,0.79
+ME,Franklin County,388,493,0.79
+ME,Hancock County,388,493,0.79
+ME,Kennebec County,388,493,0.79
+ME,Knox County,388,493,0.79
+ME,Lincoln County,388,493,0.79
+ME,Oxford County,388,493,0.79
+ME,Penobscot County,388,493,0.79
+ME,Piscataquis County,388,493,0.79
+ME,Sagadahoc County,388,493,0.79
+ME,Somerset County,388,493,0.79
+ME,Waldo County,388,493,0.79
+ME,Washington County,388,493,0.79
+ME,York County,388,493,0.79
 MI,Alcona County,419,493,0.85
-MA,Suffolk County,388,493,0.79
 MI,Alpena County,419,493,0.85
-MA,Worcester County,388,493,0.79
 MI,Alger County,419,493,0.85
 MI,Baraga County,419,493,0.85
 MI,Allegan County,419,493,0.85
@@ -1290,7 +1296,6 @@ MI,St. Joseph County,419,493,0.85
 MI,Manistee County,419,493,0.85
 MI,Wayne County,419,493,0.85
 MI,Marquette County,419,493,0.85
-MN,Aitkin County,294,493,0.6
 MI,Mecosta County,419,493,0.85
 MI,Menominee County,419,493,0.85
 MI,Missaukee County,419,493,0.85
@@ -1302,7 +1307,6 @@ MI,Oakland County,419,493,0.85
 MI,Ogemaw County,419,493,0.85
 MI,Ontonagon County,419,493,0.85
 MI,Oscoda County,419,493,0.85
-MN,Anoka County,294,493,0.6
 MI,Otsego County,419,493,0.85
 MI,Presque Isle County,419,493,0.85
 MI,Roscommon County,419,493,0.85
@@ -1315,6 +1319,8 @@ MI,Tuscola County,419,493,0.85
 MI,Van Buren County,419,493,0.85
 MI,Washtenaw County,419,493,0.85
 MI,Wexford County,419,493,0.85
+MN,Aitkin County,294,493,0.6
+MN,Anoka County,294,493,0.6
 MN,Becker County,294,493,0.6
 MN,Beltrami County,294,493,0.6
 MN,Benton County,294,493,0.6
@@ -1400,88 +1406,6 @@ MN,Wilkin County,294,493,0.6
 MN,Winona County,294,493,0.6
 MN,Wright County,294,493,0.6
 MN,Yellow Medicine County,294,493,0.6
-MS,Adams County,101,493,0.2
-MS,Alcorn County,154,493,0.31
-MS,Amite County,147,493,0.3
-MS,Attala County,154,493,0.31
-MS,Benton County,171,493,0.35
-MS,Bolivar County,170,493,0.34
-MS,Calhoun County,149,493,0.3
-MS,Carroll County,184,493,0.37
-MS,Chickasaw County,176,493,0.36
-MS,Choctaw County,154,493,0.31
-MS,Claiborne County,141,493,0.29
-MS,Clarke County,138,493,0.28
-MS,Clay County,138,493,0.28
-MS,Coahoma County,149,493,0.3
-MS,Copiah County,138,493,0.28
-MS,Covington County,184,493,0.37
-MS,DeSoto County,205,493,0.42
-MS,Forrest County,205,493,0.42
-MS,Franklin County,147,493,0.3
-MS,George County,126,493,0.26
-MS,Greene County,126,493,0.26
-MS,Grenada County,154,493,0.31
-MS,Hancock County,126,493,0.26
-MS,Harrison County,198,493,0.4
-MS,Hinds County,177,493,0.36
-MS,Holmes County,149,493,0.3
-MS,Humphreys County,173,493,0.35
-MS,Issaquena County,56,493,0.11
-MS,Itawamba County,183,493,0.37
-MS,Jackson County,205,493,0.42
-MS,Jasper County,126,493,0.26
-MS,Jefferson County,117,493,0.24
-MS,Jefferson Davis County,154,493,0.31
-MS,Jones County,171,493,0.35
-MS,Kemper County,147,493,0.3
-MS,Lafayette County,154,493,0.31
-MS,Lamar County,200,493,0.41
-MS,Lauderdale County,168,493,0.34
-MS,Lawrence County,108,493,0.22
-MS,Leake County,141,493,0.29
-MS,Lee County,191,493,0.39
-MS,Leflore County,170,493,0.34
-MS,Lincoln County,154,493,0.31
-MS,Lowndes County,156,493,0.32
-MS,Madison County,192,493,0.39
-MS,Marion County,138,493,0.28
-MS,Marshall County,182,493,0.37
-MS,Monroe County,147,493,0.3
-MS,Montgomery County,172,493,0.35
-MS,Neshoba County,176,493,0.36
-MS,Newton County,126,493,0.26
-MS,Noxubee County,149,493,0.3
-MS,Oktibbeha County,147,493,0.3
-MS,Panola County,170,493,0.34
-MS,Pearl River County,138,493,0.28
-MS,Perry County,154,493,0.31
-MS,Pike County,126,493,0.26
-MS,Pontotoc County,163,493,0.33
-MS,Prentiss County,154,493,0.31
-MS,Quitman County,106,493,0.22
-MS,Rankin County,184,493,0.37
-MS,Scott County,147,493,0.3
-MS,Sharkey County,72,493,0.15
-MS,Simpson County,154,493,0.31
-MS,Smith County,126,493,0.26
-MS,Stone County,154,493,0.31
-MS,Sunflower County,152,493,0.31
-MS,Tallahatchie County,142,493,0.29
-MS,Tate County,177,493,0.36
-MS,Tippah County,154,493,0.31
-MS,Tishomingo County,154,493,0.31
-MS,Tunica County,103,493,0.21
-MS,Union County,154,493,0.31
-MS,Walthall County,142,493,0.29
-MS,Warren County,126,493,0.26
-MS,Washington County,163,493,0.33
-MS,Wayne County,142,493,0.29
-MS,Webster County,138,493,0.28
-MS,Wilkinson County,80,493,0.16
-MS,Winston County,172,493,0.35
-MS,Yalobusha County,179,493,0.36
-MS,Yazoo County,138,493,0.28
 MO,Adair County,0,493,0
 MO,Andrew County,0,493,0
 MO,Atchison County,0,493,0
@@ -1597,6 +1521,92 @@ MO,Webster County,0,493,0
 MO,Worth County,0,493,0
 MO,Wright County,0,493,0
 MO,St. Louis city,0,493,0
+MP,Northern Islands Municipality,0,493,0
+MP,Rota Municipality,0,493,0
+MP,Saipan Municipality,0,493,0
+MP,Tinian Municipality,0,493,0
+MS,Adams County,101,493,0.2
+MS,Alcorn County,154,493,0.31
+MS,Amite County,147,493,0.3
+MS,Attala County,154,493,0.31
+MS,Benton County,171,493,0.35
+MS,Bolivar County,170,493,0.34
+MS,Calhoun County,149,493,0.3
+MS,Carroll County,184,493,0.37
+MS,Chickasaw County,176,493,0.36
+MS,Choctaw County,154,493,0.31
+MS,Claiborne County,141,493,0.29
+MS,Clarke County,138,493,0.28
+MS,Clay County,138,493,0.28
+MS,Coahoma County,149,493,0.3
+MS,Copiah County,138,493,0.28
+MS,Covington County,184,493,0.37
+MS,DeSoto County,205,493,0.42
+MS,Forrest County,205,493,0.42
+MS,Franklin County,147,493,0.3
+MS,George County,126,493,0.26
+MS,Greene County,126,493,0.26
+MS,Grenada County,154,493,0.31
+MS,Hancock County,126,493,0.26
+MS,Harrison County,198,493,0.4
+MS,Hinds County,177,493,0.36
+MS,Holmes County,149,493,0.3
+MS,Humphreys County,173,493,0.35
+MS,Issaquena County,56,493,0.11
+MS,Itawamba County,183,493,0.37
+MS,Jackson County,205,493,0.42
+MS,Jasper County,126,493,0.26
+MS,Jefferson County,117,493,0.24
+MS,Jefferson Davis County,154,493,0.31
+MS,Jones County,171,493,0.35
+MS,Kemper County,147,493,0.3
+MS,Lafayette County,154,493,0.31
+MS,Lamar County,200,493,0.41
+MS,Lauderdale County,168,493,0.34
+MS,Lawrence County,108,493,0.22
+MS,Leake County,141,493,0.29
+MS,Lee County,191,493,0.39
+MS,Leflore County,170,493,0.34
+MS,Lincoln County,154,493,0.31
+MS,Lowndes County,156,493,0.32
+MS,Madison County,192,493,0.39
+MS,Marion County,138,493,0.28
+MS,Marshall County,182,493,0.37
+MS,Monroe County,147,493,0.3
+MS,Montgomery County,172,493,0.35
+MS,Neshoba County,176,493,0.36
+MS,Newton County,126,493,0.26
+MS,Noxubee County,149,493,0.3
+MS,Oktibbeha County,147,493,0.3
+MS,Panola County,170,493,0.34
+MS,Pearl River County,138,493,0.28
+MS,Perry County,154,493,0.31
+MS,Pike County,126,493,0.26
+MS,Pontotoc County,163,493,0.33
+MS,Prentiss County,154,493,0.31
+MS,Quitman County,106,493,0.22
+MS,Rankin County,184,493,0.37
+MS,Scott County,147,493,0.3
+MS,Sharkey County,72,493,0.15
+MS,Simpson County,154,493,0.31
+MS,Smith County,126,493,0.26
+MS,Stone County,154,493,0.31
+MS,Sunflower County,152,493,0.31
+MS,Tallahatchie County,142,493,0.29
+MS,Tate County,177,493,0.36
+MS,Tippah County,154,493,0.31
+MS,Tishomingo County,154,493,0.31
+MS,Tunica County,103,493,0.21
+MS,Union County,154,493,0.31
+MS,Walthall County,142,493,0.29
+MS,Warren County,126,493,0.26
+MS,Washington County,163,493,0.33
+MS,Wayne County,142,493,0.29
+MS,Webster County,138,493,0.28
+MS,Wilkinson County,80,493,0.16
+MS,Winston County,172,493,0.35
+MS,Yalobusha County,179,493,0.36
+MS,Yazoo County,138,493,0.28
 MT,Beaverhead County,212,493,0.43
 MT,Big Horn County,212,493,0.43
 MT,Blaine County,212,493,0.43
@@ -1653,253 +1663,17 @@ MT,Valley County,212,493,0.43
 MT,Wheatland County,212,493,0.43
 MT,Wibaux County,212,493,0.43
 MT,Yellowstone County,212,493,0.43
-NE,Adams County,0,493,0
-NE,Antelope County,0,493,0
-NE,Arthur County,0,493,0
-NE,Banner County,0,493,0
-NE,Blaine County,0,493,0
-NE,Boone County,0,493,0
-NE,Box Butte County,0,493,0
-NE,Boyd County,0,493,0
-NE,Brown County,0,493,0
-NE,Buffalo County,0,493,0
-NE,Burt County,0,493,0
-NE,Butler County,0,493,0
-NE,Cass County,0,493,0
-NE,Cedar County,0,493,0
-NE,Chase County,0,493,0
-NE,Cherry County,0,493,0
-NE,Cheyenne County,0,493,0
-NE,Clay County,0,493,0
-NE,Colfax County,0,493,0
-NE,Cuming County,0,493,0
-NE,Custer County,0,493,0
-NE,Dakota County,0,493,0
-NE,Dawes County,0,493,0
-NE,Dawson County,0,493,0
-NE,Deuel County,0,493,0
-NE,Dixon County,0,493,0
-NE,Dodge County,0,493,0
-NE,Douglas County,0,493,0
-NE,Dundy County,0,493,0
-NE,Fillmore County,0,493,0
-NE,Franklin County,0,493,0
-NE,Frontier County,0,493,0
-NE,Furnas County,0,493,0
-NE,Gage County,0,493,0
-NE,Garden County,0,493,0
-NE,Garfield County,0,493,0
-NE,Gosper County,0,493,0
-NE,Grant County,0,493,0
-NE,Greeley County,0,493,0
-NE,Hall County,0,493,0
-NE,Hamilton County,0,493,0
-NE,Harlan County,0,493,0
-NE,Hayes County,0,493,0
-NE,Hitchcock County,0,493,0
-NE,Holt County,0,493,0
-NE,Hooker County,0,493,0
-NE,Howard County,0,493,0
-NE,Jefferson County,0,493,0
-NE,Johnson County,0,493,0
-NE,Kearney County,0,493,0
-NE,Keith County,0,493,0
-NE,Keya Paha County,0,493,0
-NE,Kimball County,0,493,0
-NE,Knox County,0,493,0
-NE,Lancaster County,0,493,0
-NE,Lincoln County,0,493,0
-NE,Logan County,0,493,0
-NE,Loup County,0,493,0
-NE,McPherson County,0,493,0
-NE,Madison County,0,493,0
-NE,Merrick County,0,493,0
-NE,Morrill County,0,493,0
-NE,Nance County,0,493,0
-NE,Nemaha County,0,493,0
-NE,Nuckolls County,0,493,0
-NE,Otoe County,0,493,0
-NE,Pawnee County,0,493,0
-NE,Perkins County,0,493,0
-NE,Phelps County,0,493,0
-NE,Pierce County,0,493,0
-NE,Platte County,0,493,0
-NE,Polk County,0,493,0
-NE,Red Willow County,0,493,0
-NE,Richardson County,0,493,0
-NE,Rock County,0,493,0
-NE,Saline County,0,493,0
-NE,Sarpy County,0,493,0
-NE,Saunders County,0,493,0
-NE,Scotts Bluff County,0,493,0
-NE,Seward County,0,493,0
-NE,Sheridan County,0,493,0
-NE,Sherman County,0,493,0
-NE,Sioux County,0,493,0
-NE,Stanton County,0,493,0
-NE,Thayer County,0,493,0
-NE,Thomas County,0,493,0
-NE,Thurston County,0,493,0
-NE,Valley County,0,493,0
-NE,Washington County,0,493,0
-NE,Wayne County,0,493,0
-NE,Webster County,0,493,0
-NE,Wheeler County,0,493,0
-NE,York County,0,493,0
-NV,Churchill County,418,493,0.85
-NV,Clark County,418,493,0.85
-NV,Douglas County,418,493,0.85
-NV,Elko County,418,493,0.85
-NV,Esmeralda County,418,493,0.85
-NV,Eureka County,418,493,0.85
-NV,Humboldt County,418,493,0.85
-NV,Lander County,418,493,0.85
-NV,Lincoln County,418,493,0.85
-NV,Lyon County,418,493,0.85
-NV,Mineral County,418,493,0.85
-NV,Nye County,418,493,0.85
-NV,Pershing County,418,493,0.85
-NV,Storey County,418,493,0.85
-NV,Washoe County,418,493,0.85
-NV,White Pine County,418,493,0.85
-NV,Carson City,418,493,0.85
-NH,Belknap County,148,493,0.3
-NH,Carroll County,148,493,0.3
-NH,Cheshire County,148,493,0.3
-NH,Coos County,148,493,0.3
-NH,Grafton County,148,493,0.3
-NH,Hillsborough County,148,493,0.3
-NH,Merrimack County,148,493,0.3
-NH,Rockingham County,148,493,0.3
-NH,Strafford County,148,493,0.3
-NH,Sullivan County,148,493,0.3
-NJ,Atlantic County,413,493,0.84
-NJ,Bergen County,413,493,0.84
-NJ,Burlington County,413,493,0.84
-NM,Bernalillo County,458,493,0.93
-NJ,Camden County,413,493,0.84
-NJ,Cape May County,413,493,0.84
-NJ,Cumberland County,413,493,0.84
-NJ,Essex County,413,493,0.84
-NJ,Gloucester County,413,493,0.84
-NJ,Hudson County,413,493,0.84
-NJ,Hunterdon County,413,493,0.84
-NJ,Mercer County,413,493,0.84
-NJ,Middlesex County,413,493,0.84
-NJ,Monmouth County,413,493,0.84
-NJ,Morris County,413,493,0.84
-NJ,Ocean County,413,493,0.84
-NJ,Passaic County,413,493,0.84
-NJ,Salem County,413,493,0.84
-NJ,Somerset County,413,493,0.84
-NJ,Sussex County,413,493,0.84
-NJ,Union County,413,493,0.84
-NJ,Warren County,413,493,0.84
-NM,Colfax County,458,493,0.93
-NM,Catron County,458,493,0.93
-NM,Chaves County,458,493,0.93
-NM,Cibola County,441,493,0.89
-NM,Curry County,458,493,0.93
-NM,Grant County,458,493,0.93
-NM,De Baca County,458,493,0.93
-NM,Doña Ana County,458,493,0.93
-NM,Eddy County,458,493,0.93
-NM,Guadalupe County,458,493,0.93
-NM,Harding County,458,493,0.93
-NM,Lea County,458,493,0.93
-NM,Hidalgo County,458,493,0.93
-NM,Lincoln County,458,493,0.93
-NM,Los Alamos County,458,493,0.93
-NM,McKinley County,441,493,0.89
-NM,Luna County,458,493,0.93
-NM,Mora County,458,493,0.93
-NM,Quay County,458,493,0.93
-NM,Otero County,458,493,0.93
-NM,Rio Arriba County,458,493,0.93
-NM,Roosevelt County,458,493,0.93
-NM,San Juan County,441,493,0.89
-NM,Sandoval County,458,493,0.93
-NM,San Miguel County,458,493,0.93
-NM,Santa Fe County,458,493,0.93
-NM,Sierra County,458,493,0.93
-NM,Union County,458,493,0.93
-NM,Socorro County,458,493,0.93
-NM,Taos County,458,493,0.93
-NM,Torrance County,458,493,0.93
-NM,Valencia County,458,493,0.93
-NY,Cattaraugus County,434,493,0.88
-NY,Albany County,434,493,0.88
 NC,Alamance County,322,493,0.65
-NY,Allegany County,434,493,0.88
-NY,Bronx County,434,493,0.88
-NY,Broome County,434,493,0.88
-NY,Cayuga County,434,493,0.88
 NC,Alleghany County,322,493,0.65
-NY,Chautauqua County,434,493,0.88
-NY,Chemung County,434,493,0.88
-NY,Chenango County,434,493,0.88
-NY,Clinton County,434,493,0.88
-NY,Columbia County,434,493,0.88
-NY,Cortland County,434,493,0.88
 NC,Anson County,322,493,0.65
-NY,Delaware County,434,493,0.88
-NY,Dutchess County,434,493,0.88
-NY,Erie County,434,493,0.88
-NY,Essex County,434,493,0.88
-NY,Jefferson County,434,493,0.88
-NY,Franklin County,434,493,0.88
-NY,Fulton County,434,493,0.88
-NY,Genesee County,434,493,0.88
-NY,Greene County,434,493,0.88
 NC,Ashe County,322,493,0.65
-NY,Hamilton County,434,493,0.88
-NY,Herkimer County,434,493,0.88
-NY,Kings County,434,493,0.88
-NY,Lewis County,434,493,0.88
-NY,Niagara County,434,493,0.88
-NY,Livingston County,434,493,0.88
-NY,Madison County,434,493,0.88
 NC,Avery County,322,493,0.65
-NY,Monroe County,434,493,0.88
-NY,Montgomery County,434,493,0.88
-NY,Nassau County,434,493,0.88
-NY,New York County,434,493,0.88
 NC,Beaufort County,322,493,0.65
-NY,Oneida County,434,493,0.88
-NY,Onondaga County,434,493,0.88
-NY,Ontario County,434,493,0.88
-NY,Putnam County,434,493,0.88
-NY,Orange County,434,493,0.88
-NY,Orleans County,434,493,0.88
-NY,Oswego County,434,493,0.88
 NC,Bertie County,322,493,0.65
-NY,Otsego County,434,493,0.88
-NY,Queens County,434,493,0.88
-NY,Rensselaer County,434,493,0.88
-NY,Richmond County,434,493,0.88
-NY,Rockland County,434,493,0.88
-NY,St. Lawrence County,434,493,0.88
-NY,Saratoga County,434,493,0.88
 NC,Bladen County,322,493,0.65
-NY,Schenectady County,434,493,0.88
-NY,Schoharie County,434,493,0.88
-NY,Schuyler County,434,493,0.88
-NY,Seneca County,434,493,0.88
-NY,Steuben County,434,493,0.88
-NY,Suffolk County,434,493,0.88
 NC,Brunswick County,322,493,0.65
-NY,Sullivan County,434,493,0.88
-NY,Tioga County,434,493,0.88
-NY,Tompkins County,434,493,0.88
 NC,Alexander County,322,493,0.65
-NY,Ulster County,434,493,0.88
-NY,Warren County,434,493,0.88
-NY,Washington County,434,493,0.88
-NY,Wayne County,434,493,0.88
-NY,Westchester County,434,493,0.88
-NY,Wyoming County,434,493,0.88
 NC,Buncombe County,322,493,0.65
-NY,Yates County,434,493,0.88
 NC,Burke County,322,493,0.65
 NC,Cabarrus County,322,493,0.65
 NC,Caldwell County,322,493,0.65
@@ -2042,6 +1816,242 @@ ND,Walsh County,66,493,0.13
 ND,Ward County,66,493,0.13
 ND,Wells County,66,493,0.13
 ND,Williams County,66,493,0.13
+NE,Adams County,0,493,0
+NE,Antelope County,0,493,0
+NE,Arthur County,0,493,0
+NE,Banner County,0,493,0
+NE,Blaine County,0,493,0
+NE,Boone County,0,493,0
+NE,Box Butte County,0,493,0
+NE,Boyd County,0,493,0
+NE,Brown County,0,493,0
+NE,Buffalo County,0,493,0
+NE,Burt County,0,493,0
+NE,Butler County,0,493,0
+NE,Cass County,0,493,0
+NE,Cedar County,0,493,0
+NE,Chase County,0,493,0
+NE,Cherry County,0,493,0
+NE,Cheyenne County,0,493,0
+NE,Clay County,0,493,0
+NE,Colfax County,0,493,0
+NE,Cuming County,0,493,0
+NE,Custer County,0,493,0
+NE,Dakota County,0,493,0
+NE,Dawes County,0,493,0
+NE,Dawson County,0,493,0
+NE,Deuel County,0,493,0
+NE,Dixon County,0,493,0
+NE,Dodge County,0,493,0
+NE,Douglas County,0,493,0
+NE,Dundy County,0,493,0
+NE,Fillmore County,0,493,0
+NE,Franklin County,0,493,0
+NE,Frontier County,0,493,0
+NE,Furnas County,0,493,0
+NE,Gage County,0,493,0
+NE,Garden County,0,493,0
+NE,Garfield County,0,493,0
+NE,Gosper County,0,493,0
+NE,Grant County,0,493,0
+NE,Greeley County,0,493,0
+NE,Hall County,0,493,0
+NE,Hamilton County,0,493,0
+NE,Harlan County,0,493,0
+NE,Hayes County,0,493,0
+NE,Hitchcock County,0,493,0
+NE,Holt County,0,493,0
+NE,Hooker County,0,493,0
+NE,Howard County,0,493,0
+NE,Jefferson County,0,493,0
+NE,Johnson County,0,493,0
+NE,Kearney County,0,493,0
+NE,Keith County,0,493,0
+NE,Keya Paha County,0,493,0
+NE,Kimball County,0,493,0
+NE,Knox County,0,493,0
+NE,Lancaster County,0,493,0
+NE,Lincoln County,0,493,0
+NE,Logan County,0,493,0
+NE,Loup County,0,493,0
+NE,McPherson County,0,493,0
+NE,Madison County,0,493,0
+NE,Merrick County,0,493,0
+NE,Morrill County,0,493,0
+NE,Nance County,0,493,0
+NE,Nemaha County,0,493,0
+NE,Nuckolls County,0,493,0
+NE,Otoe County,0,493,0
+NE,Pawnee County,0,493,0
+NE,Perkins County,0,493,0
+NE,Phelps County,0,493,0
+NE,Pierce County,0,493,0
+NE,Platte County,0,493,0
+NE,Polk County,0,493,0
+NE,Red Willow County,0,493,0
+NE,Richardson County,0,493,0
+NE,Rock County,0,493,0
+NE,Saline County,0,493,0
+NE,Sarpy County,0,493,0
+NE,Saunders County,0,493,0
+NE,Scotts Bluff County,0,493,0
+NE,Seward County,0,493,0
+NE,Sheridan County,0,493,0
+NE,Sherman County,0,493,0
+NE,Sioux County,0,493,0
+NE,Stanton County,0,493,0
+NE,Thayer County,0,493,0
+NE,Thomas County,0,493,0
+NE,Thurston County,0,493,0
+NE,Valley County,0,493,0
+NE,Washington County,0,493,0
+NE,Wayne County,0,493,0
+NE,Webster County,0,493,0
+NE,Wheeler County,0,493,0
+NE,York County,0,493,0
+NH,Belknap County,148,493,0.3
+NH,Carroll County,148,493,0.3
+NH,Cheshire County,148,493,0.3
+NH,Coos County,148,493,0.3
+NH,Grafton County,148,493,0.3
+NH,Hillsborough County,148,493,0.3
+NH,Merrimack County,148,493,0.3
+NH,Rockingham County,148,493,0.3
+NH,Strafford County,148,493,0.3
+NH,Sullivan County,148,493,0.3
+NJ,Atlantic County,413,493,0.84
+NJ,Bergen County,413,493,0.84
+NJ,Burlington County,413,493,0.84
+NJ,Camden County,413,493,0.84
+NJ,Cape May County,413,493,0.84
+NJ,Cumberland County,413,493,0.84
+NJ,Essex County,413,493,0.84
+NJ,Gloucester County,413,493,0.84
+NJ,Hudson County,413,493,0.84
+NJ,Hunterdon County,413,493,0.84
+NJ,Mercer County,413,493,0.84
+NJ,Middlesex County,413,493,0.84
+NJ,Monmouth County,413,493,0.84
+NJ,Morris County,413,493,0.84
+NJ,Ocean County,413,493,0.84
+NJ,Passaic County,413,493,0.84
+NJ,Salem County,413,493,0.84
+NJ,Somerset County,413,493,0.84
+NJ,Sussex County,413,493,0.84
+NJ,Union County,413,493,0.84
+NJ,Warren County,413,493,0.84
+NM,Bernalillo County,458,493,0.93
+NM,Colfax County,458,493,0.93
+NM,Catron County,458,493,0.93
+NM,Chaves County,458,493,0.93
+NM,Cibola County,441,493,0.89
+NM,Curry County,458,493,0.93
+NM,Grant County,458,493,0.93
+NM,De Baca County,458,493,0.93
+NM,Doña Ana County,458,493,0.93
+NM,Eddy County,458,493,0.93
+NM,Guadalupe County,458,493,0.93
+NM,Harding County,458,493,0.93
+NM,Lea County,458,493,0.93
+NM,Hidalgo County,458,493,0.93
+NM,Lincoln County,458,493,0.93
+NM,Los Alamos County,458,493,0.93
+NM,McKinley County,441,493,0.89
+NM,Luna County,458,493,0.93
+NM,Mora County,458,493,0.93
+NM,Quay County,458,493,0.93
+NM,Otero County,458,493,0.93
+NM,Rio Arriba County,458,493,0.93
+NM,Roosevelt County,458,493,0.93
+NM,San Juan County,441,493,0.89
+NM,Sandoval County,458,493,0.93
+NM,San Miguel County,458,493,0.93
+NM,Santa Fe County,458,493,0.93
+NM,Sierra County,458,493,0.93
+NM,Union County,458,493,0.93
+NM,Socorro County,458,493,0.93
+NM,Taos County,458,493,0.93
+NM,Torrance County,458,493,0.93
+NM,Valencia County,458,493,0.93
+NV,Churchill County,418,493,0.85
+NV,Clark County,418,493,0.85
+NV,Douglas County,418,493,0.85
+NV,Elko County,418,493,0.85
+NV,Esmeralda County,418,493,0.85
+NV,Eureka County,418,493,0.85
+NV,Humboldt County,418,493,0.85
+NV,Lander County,418,493,0.85
+NV,Lincoln County,418,493,0.85
+NV,Lyon County,418,493,0.85
+NV,Mineral County,418,493,0.85
+NV,Nye County,418,493,0.85
+NV,Pershing County,418,493,0.85
+NV,Storey County,418,493,0.85
+NV,Washoe County,418,493,0.85
+NV,White Pine County,418,493,0.85
+NV,Carson City,418,493,0.85
+NY,Cattaraugus County,434,493,0.88
+NY,Albany County,434,493,0.88
+NY,Allegany County,434,493,0.88
+NY,Bronx County,434,493,0.88
+NY,Broome County,434,493,0.88
+NY,Cayuga County,434,493,0.88
+NY,Chautauqua County,434,493,0.88
+NY,Chemung County,434,493,0.88
+NY,Chenango County,434,493,0.88
+NY,Clinton County,434,493,0.88
+NY,Columbia County,434,493,0.88
+NY,Cortland County,434,493,0.88
+NY,Delaware County,434,493,0.88
+NY,Dutchess County,434,493,0.88
+NY,Erie County,434,493,0.88
+NY,Essex County,434,493,0.88
+NY,Jefferson County,434,493,0.88
+NY,Franklin County,434,493,0.88
+NY,Fulton County,434,493,0.88
+NY,Genesee County,434,493,0.88
+NY,Greene County,434,493,0.88
+NY,Hamilton County,434,493,0.88
+NY,Herkimer County,434,493,0.88
+NY,Kings County,434,493,0.88
+NY,Lewis County,434,493,0.88
+NY,Niagara County,434,493,0.88
+NY,Livingston County,434,493,0.88
+NY,Madison County,434,493,0.88
+NY,Monroe County,434,493,0.88
+NY,Montgomery County,434,493,0.88
+NY,Nassau County,434,493,0.88
+NY,New York County,434,493,0.88
+NY,Oneida County,434,493,0.88
+NY,Onondaga County,434,493,0.88
+NY,Ontario County,434,493,0.88
+NY,Putnam County,434,493,0.88
+NY,Orange County,434,493,0.88
+NY,Orleans County,434,493,0.88
+NY,Oswego County,434,493,0.88
+NY,Otsego County,434,493,0.88
+NY,Queens County,434,493,0.88
+NY,Rensselaer County,434,493,0.88
+NY,Richmond County,434,493,0.88
+NY,Rockland County,434,493,0.88
+NY,St. Lawrence County,434,493,0.88
+NY,Saratoga County,434,493,0.88
+NY,Schenectady County,434,493,0.88
+NY,Schoharie County,434,493,0.88
+NY,Schuyler County,434,493,0.88
+NY,Seneca County,434,493,0.88
+NY,Steuben County,434,493,0.88
+NY,Suffolk County,434,493,0.88
+NY,Sullivan County,434,493,0.88
+NY,Tioga County,434,493,0.88
+NY,Tompkins County,434,493,0.88
+NY,Ulster County,434,493,0.88
+NY,Warren County,434,493,0.88
+NY,Washington County,434,493,0.88
+NY,Wayne County,434,493,0.88
+NY,Westchester County,434,493,0.88
+NY,Wyoming County,434,493,0.88
+NY,Yates County,434,493,0.88
 OH,Adams County,314,493,0.64
 OH,Allen County,320,493,0.65
 OH,Ashland County,314,493,0.64
@@ -2290,13 +2300,10 @@ PA,Montgomery County,435,493,0.88
 PA,Mercer County,435,493,0.88
 PA,Mifflin County,435,493,0.88
 PA,Montour County,435,493,0.88
-RI,Newport County,424,493,0.86
 PA,Northampton County,435,493,0.88
-SC,Abbeville County,0,493,0
 PA,Northumberland County,435,493,0.88
 PA,Perry County,435,493,0.88
 PA,Philadelphia County,435,493,0.88
-RI,Bristol County,424,493,0.86
 PA,Pike County,435,493,0.88
 PA,Potter County,435,493,0.88
 PA,Schuylkill County,435,493,0.88
@@ -2313,9 +2320,90 @@ PA,Wayne County,435,493,0.88
 PA,Westmoreland County,435,493,0.88
 PA,Wyoming County,435,493,0.88
 PA,York County,435,493,0.88
+PR,Adjuntas Municipio,490,493,0.99
+PR,Comerío Municipio,490,493,0.99
+PR,Aguada Municipio,490,493,0.99
+PR,Aguadilla Municipio,490,493,0.99
+PR,Aguas Buenas Municipio,490,493,0.99
+PR,Luquillo Municipio,490,493,0.99
+PR,Aibonito Municipio,490,493,0.99
+PR,Añasco Municipio,490,493,0.99
+PR,Arecibo Municipio,490,493,0.99
+PR,Salinas Municipio,490,493,0.99
+PR,Arroyo Municipio,490,493,0.99
+PR,Barceloneta Municipio,490,493,0.99
+PR,Barranquitas Municipio,490,493,0.99
+PR,Bayamón Municipio,490,493,0.99
+PR,Cabo Rojo Municipio,490,493,0.99
+PR,Caguas Municipio,490,493,0.99
+PR,Camuy Municipio,490,493,0.99
+PR,Canóvanas Municipio,490,493,0.99
+PR,Carolina Municipio,490,493,0.99
+PR,Cataño Municipio,490,493,0.99
+PR,Cayey Municipio,490,493,0.99
+PR,Ceiba Municipio,490,493,0.99
+PR,Ciales Municipio,490,493,0.99
+PR,Cidra Municipio,490,493,0.99
+PR,Coamo Municipio,490,493,0.99
+PR,Corozal Municipio,490,493,0.99
+PR,Culebra Municipio,490,493,0.99
+PR,Dorado Municipio,490,493,0.99
+PR,Fajardo Municipio,490,493,0.99
+PR,Florida Municipio,490,493,0.99
+PR,Guánica Municipio,490,493,0.99
+PR,Guayama Municipio,490,493,0.99
+PR,Guayanilla Municipio,490,493,0.99
+PR,Guaynabo Municipio,490,493,0.99
+PR,Gurabo Municipio,490,493,0.99
+PR,Hatillo Municipio,490,493,0.99
+PR,Hormigueros Municipio,490,493,0.99
+PR,Humacao Municipio,490,493,0.99
+PR,Isabela Municipio,490,493,0.99
+PR,Jayuya Municipio,490,493,0.99
+PR,Juana Díaz Municipio,490,493,0.99
+PR,Juncos Municipio,490,493,0.99
+PR,Lajas Municipio,490,493,0.99
+PR,Lares Municipio,490,493,0.99
+PR,Las Marías Municipio,490,493,0.99
+PR,Las Piedras Municipio,490,493,0.99
+PR,Loíza Municipio,490,493,0.99
+PR,Manatí Municipio,490,493,0.99
+PR,Maricao Municipio,490,493,0.99
+PR,Maunabo Municipio,490,493,0.99
+PR,Mayagüez Municipio,490,493,0.99
+PR,Moca Municipio,490,493,0.99
+PR,Morovis Municipio,490,493,0.99
+PR,Naguabo Municipio,490,493,0.99
+PR,Naranjito Municipio,490,493,0.99
+PR,Orocovis Municipio,490,493,0.99
+PR,Patillas Municipio,490,493,0.99
+PR,Peñuelas Municipio,490,493,0.99
+PR,Ponce Municipio,490,493,0.99
+PR,Quebradillas Municipio,490,493,0.99
+PR,Rincón Municipio,490,493,0.99
+PR,Río Grande Municipio,490,493,0.99
+PR,Sabana Grande Municipio,490,493,0.99
+PR,San Germán Municipio,490,493,0.99
+PR,San Juan Municipio,490,493,0.99
+PR,San Lorenzo Municipio,490,493,0.99
+PR,San Sebastián Municipio,490,493,0.99
+PR,Santa Isabel Municipio,490,493,0.99
+PR,Toa Alta Municipio,490,493,0.99
+PR,Toa Baja Municipio,490,493,0.99
+PR,Trujillo Alto Municipio,490,493,0.99
+PR,Utuado Municipio,490,493,0.99
+PR,Vega Alta Municipio,490,493,0.99
+PR,Vega Baja Municipio,490,493,0.99
+PR,Vieques Municipio,490,493,0.99
+PR,Villalba Municipio,490,493,0.99
+PR,Yabucoa Municipio,490,493,0.99
+PR,Yauco Municipio,490,493,0.99
+RI,Newport County,424,493,0.86
+RI,Bristol County,424,493,0.86
 RI,Kent County,424,493,0.86
 RI,Providence County,424,493,0.86
 RI,Washington County,424,493,0.86
+SC,Abbeville County,0,493,0
 SC,Aiken County,0,493,0
 SC,Allendale County,0,493,0
 SC,Anderson County,0,493,0
@@ -2805,20 +2893,6 @@ UT,Wasatch County,178,493,0.36
 UT,Washington County,178,493,0.36
 UT,Wayne County,160,493,0.32
 UT,Weber County,178,493,0.36
-VT,Addison County,317,493,0.64
-VT,Bennington County,317,493,0.64
-VT,Caledonia County,317,493,0.64
-VT,Chittenden County,317,493,0.64
-VT,Essex County,317,493,0.64
-VT,Franklin County,317,493,0.64
-VT,Grand Isle County,317,493,0.64
-VT,Lamoille County,317,493,0.64
-VT,Orange County,317,493,0.64
-VT,Orleans County,317,493,0.64
-VT,Rutland County,317,493,0.64
-VT,Washington County,317,493,0.64
-VT,Windham County,317,493,0.64
-VT,Windsor County,317,493,0.64
 VA,Accomack County,351,493,0.71
 VA,Albemarle County,351,493,0.71
 VA,Alleghany County,351,493,0.71
@@ -2951,8 +3025,25 @@ VA,Suffolk city,351,493,0.71
 VA,Virginia Beach city,351,493,0.71
 VA,Waynesboro city,351,493,0.71
 VA,Winchester city,351,493,0.71
-WA,Adams County,416,493,0.84
 VA,Williamsburg city,351,493,0.71
+VI,St. Thomas Island,469,493,0.95
+VI,St. Croix Island,469,493,0.95
+VI,St. John Island,469,493,0.95
+VT,Addison County,317,493,0.64
+VT,Bennington County,317,493,0.64
+VT,Caledonia County,317,493,0.64
+VT,Chittenden County,317,493,0.64
+VT,Essex County,317,493,0.64
+VT,Franklin County,317,493,0.64
+VT,Grand Isle County,317,493,0.64
+VT,Lamoille County,317,493,0.64
+VT,Orange County,317,493,0.64
+VT,Orleans County,317,493,0.64
+VT,Rutland County,317,493,0.64
+VT,Washington County,317,493,0.64
+VT,Windham County,317,493,0.64
+VT,Windsor County,317,493,0.64
+WA,Adams County,416,493,0.84
 WA,Asotin County,416,493,0.84
 WA,Benton County,416,493,0.84
 WA,Chelan County,416,493,0.84
@@ -2991,61 +3082,6 @@ WA,Walla Walla County,416,493,0.84
 WA,Whatcom County,416,493,0.84
 WA,Whitman County,416,493,0.84
 WA,Yakima County,416,493,0.84
-WV,Barbour County,348,493,0.71
-WV,Berkeley County,348,493,0.71
-WV,Boone County,348,493,0.71
-WV,Braxton County,348,493,0.71
-WV,Brooke County,348,493,0.71
-WV,Cabell County,348,493,0.71
-WV,Calhoun County,348,493,0.71
-WV,Clay County,348,493,0.71
-WV,Doddridge County,348,493,0.71
-WV,Fayette County,348,493,0.71
-WV,Gilmer County,348,493,0.71
-WV,Grant County,348,493,0.71
-WV,Greenbrier County,348,493,0.71
-WV,Hampshire County,348,493,0.71
-WV,Hancock County,348,493,0.71
-WV,Hardy County,348,493,0.71
-WV,Harrison County,348,493,0.71
-WV,Jackson County,348,493,0.71
-WV,Jefferson County,348,493,0.71
-WV,Kanawha County,348,493,0.71
-WV,Lewis County,348,493,0.71
-WV,Lincoln County,348,493,0.71
-WV,Logan County,348,493,0.71
-WV,McDowell County,348,493,0.71
-WV,Marion County,348,493,0.71
-WV,Marshall County,348,493,0.71
-WV,Mason County,348,493,0.71
-WV,Mercer County,348,493,0.71
-WV,Mineral County,348,493,0.71
-WV,Mingo County,348,493,0.71
-WV,Monongalia County,348,493,0.71
-WV,Monroe County,348,493,0.71
-WV,Morgan County,348,493,0.71
-WV,Nicholas County,348,493,0.71
-WV,Ohio County,348,493,0.71
-WV,Pendleton County,348,493,0.71
-WV,Pleasants County,348,493,0.71
-WV,Pocahontas County,348,493,0.71
-WV,Preston County,348,493,0.71
-WV,Putnam County,348,493,0.71
-WV,Raleigh County,348,493,0.71
-WV,Randolph County,348,493,0.71
-WV,Ritchie County,348,493,0.71
-WV,Roane County,348,493,0.71
-WV,Summers County,348,493,0.71
-WV,Taylor County,348,493,0.71
-WV,Tucker County,348,493,0.71
-WV,Tyler County,348,493,0.71
-WV,Upshur County,348,493,0.71
-WV,Wayne County,348,493,0.71
-WV,Webster County,348,493,0.71
-WV,Wetzel County,348,493,0.71
-WV,Wirt County,348,493,0.71
-WV,Wood County,348,493,0.71
-WV,Wyoming County,348,493,0.71
 WI,Adams County,242,493,0.49
 WI,Ashland County,242,493,0.49
 WI,Barron County,242,493,0.49
@@ -3118,6 +3154,61 @@ WI,Waupaca County,242,493,0.49
 WI,Waushara County,242,493,0.49
 WI,Winnebago County,242,493,0.49
 WI,Wood County,242,493,0.49
+WV,Barbour County,348,493,0.71
+WV,Berkeley County,348,493,0.71
+WV,Boone County,348,493,0.71
+WV,Braxton County,348,493,0.71
+WV,Brooke County,348,493,0.71
+WV,Cabell County,348,493,0.71
+WV,Calhoun County,348,493,0.71
+WV,Clay County,348,493,0.71
+WV,Doddridge County,348,493,0.71
+WV,Fayette County,348,493,0.71
+WV,Gilmer County,348,493,0.71
+WV,Grant County,348,493,0.71
+WV,Greenbrier County,348,493,0.71
+WV,Hampshire County,348,493,0.71
+WV,Hancock County,348,493,0.71
+WV,Hardy County,348,493,0.71
+WV,Harrison County,348,493,0.71
+WV,Jackson County,348,493,0.71
+WV,Jefferson County,348,493,0.71
+WV,Kanawha County,348,493,0.71
+WV,Lewis County,348,493,0.71
+WV,Lincoln County,348,493,0.71
+WV,Logan County,348,493,0.71
+WV,McDowell County,348,493,0.71
+WV,Marion County,348,493,0.71
+WV,Marshall County,348,493,0.71
+WV,Mason County,348,493,0.71
+WV,Mercer County,348,493,0.71
+WV,Mineral County,348,493,0.71
+WV,Mingo County,348,493,0.71
+WV,Monongalia County,348,493,0.71
+WV,Monroe County,348,493,0.71
+WV,Morgan County,348,493,0.71
+WV,Nicholas County,348,493,0.71
+WV,Ohio County,348,493,0.71
+WV,Pendleton County,348,493,0.71
+WV,Pleasants County,348,493,0.71
+WV,Pocahontas County,348,493,0.71
+WV,Preston County,348,493,0.71
+WV,Putnam County,348,493,0.71
+WV,Raleigh County,348,493,0.71
+WV,Randolph County,348,493,0.71
+WV,Ritchie County,348,493,0.71
+WV,Roane County,348,493,0.71
+WV,Summers County,348,493,0.71
+WV,Taylor County,348,493,0.71
+WV,Tucker County,348,493,0.71
+WV,Tyler County,348,493,0.71
+WV,Upshur County,348,493,0.71
+WV,Wayne County,348,493,0.71
+WV,Webster County,348,493,0.71
+WV,Wetzel County,348,493,0.71
+WV,Wirt County,348,493,0.71
+WV,Wood County,348,493,0.71
+WV,Wyoming County,348,493,0.71
 WY,Albany County,66,493,0.13
 WY,Big Horn County,66,493,0.13
 WY,Campbell County,66,493,0.13
@@ -3141,94 +3232,3 @@ WY,Teton County,66,493,0.13
 WY,Uinta County,66,493,0.13
 WY,Washakie County,66,493,0.13
 WY,Weston County,66,493,0.13
-AS,Eastern District,18,493,0.04
-AS,Manu'a District,18,493,0.04
-AS,Rose Island,18,493,0.04
-AS,Swains Island,18,493,0.04
-AS,Western District,18,493,0.04
-GU,Guam,466,493,0.95
-MP,Northern Islands Municipality,0,493,0
-MP,Rota Municipality,0,493,0
-MP,Saipan Municipality,0,493,0
-MP,Tinian Municipality,0,493,0
-PR,Adjuntas Municipio,490,493,0.99
-PR,Comerío Municipio,490,493,0.99
-PR,Aguada Municipio,490,493,0.99
-PR,Aguadilla Municipio,490,493,0.99
-PR,Aguas Buenas Municipio,490,493,0.99
-PR,Luquillo Municipio,490,493,0.99
-PR,Aibonito Municipio,490,493,0.99
-PR,Añasco Municipio,490,493,0.99
-PR,Arecibo Municipio,490,493,0.99
-PR,Salinas Municipio,490,493,0.99
-PR,Arroyo Municipio,490,493,0.99
-VI,St. Thomas Island,469,493,0.95
-PR,Barceloneta Municipio,490,493,0.99
-PR,Barranquitas Municipio,490,493,0.99
-PR,Bayamón Municipio,490,493,0.99
-PR,Cabo Rojo Municipio,490,493,0.99
-PR,Caguas Municipio,490,493,0.99
-PR,Camuy Municipio,490,493,0.99
-PR,Canóvanas Municipio,490,493,0.99
-PR,Carolina Municipio,490,493,0.99
-PR,Cataño Municipio,490,493,0.99
-PR,Cayey Municipio,490,493,0.99
-PR,Ceiba Municipio,490,493,0.99
-PR,Ciales Municipio,490,493,0.99
-PR,Cidra Municipio,490,493,0.99
-PR,Coamo Municipio,490,493,0.99
-PR,Corozal Municipio,490,493,0.99
-PR,Culebra Municipio,490,493,0.99
-PR,Dorado Municipio,490,493,0.99
-PR,Fajardo Municipio,490,493,0.99
-PR,Florida Municipio,490,493,0.99
-PR,Guánica Municipio,490,493,0.99
-PR,Guayama Municipio,490,493,0.99
-PR,Guayanilla Municipio,490,493,0.99
-PR,Guaynabo Municipio,490,493,0.99
-PR,Gurabo Municipio,490,493,0.99
-PR,Hatillo Municipio,490,493,0.99
-PR,Hormigueros Municipio,490,493,0.99
-PR,Humacao Municipio,490,493,0.99
-PR,Isabela Municipio,490,493,0.99
-PR,Jayuya Municipio,490,493,0.99
-PR,Juana Díaz Municipio,490,493,0.99
-PR,Juncos Municipio,490,493,0.99
-PR,Lajas Municipio,490,493,0.99
-PR,Lares Municipio,490,493,0.99
-PR,Las Marías Municipio,490,493,0.99
-PR,Las Piedras Municipio,490,493,0.99
-PR,Loíza Municipio,490,493,0.99
-PR,Manatí Municipio,490,493,0.99
-PR,Maricao Municipio,490,493,0.99
-PR,Maunabo Municipio,490,493,0.99
-PR,Mayagüez Municipio,490,493,0.99
-PR,Moca Municipio,490,493,0.99
-PR,Morovis Municipio,490,493,0.99
-PR,Naguabo Municipio,490,493,0.99
-PR,Naranjito Municipio,490,493,0.99
-PR,Orocovis Municipio,490,493,0.99
-PR,Patillas Municipio,490,493,0.99
-PR,Peñuelas Municipio,490,493,0.99
-PR,Ponce Municipio,490,493,0.99
-PR,Quebradillas Municipio,490,493,0.99
-PR,Rincón Municipio,490,493,0.99
-PR,Río Grande Municipio,490,493,0.99
-PR,Sabana Grande Municipio,490,493,0.99
-PR,San Germán Municipio,490,493,0.99
-PR,San Juan Municipio,490,493,0.99
-PR,San Lorenzo Municipio,490,493,0.99
-PR,San Sebastián Municipio,490,493,0.99
-PR,Santa Isabel Municipio,490,493,0.99
-PR,Toa Alta Municipio,490,493,0.99
-PR,Toa Baja Municipio,490,493,0.99
-PR,Trujillo Alto Municipio,490,493,0.99
-PR,Utuado Municipio,490,493,0.99
-PR,Vega Alta Municipio,490,493,0.99
-PR,Vega Baja Municipio,490,493,0.99
-PR,Vieques Municipio,490,493,0.99
-PR,Villalba Municipio,490,493,0.99
-PR,Yabucoa Municipio,490,493,0.99
-PR,Yauco Municipio,490,493,0.99
-VI,St. Croix Island,469,493,0.95
-VI,St. John Island,469,493,0.95
