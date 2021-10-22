@@ -1,4 +1,4 @@
-# project
+﻿# project
 Team Members (Group Four):  James Niu (Repo Owner), Elsa Hernadez, Ethan Kaufman, Steven Broyles, Babatunde Adefokun
 
 GitLab Collaboration: https://github.com/jameswniu/project.git
@@ -24,11 +24,20 @@ James will prepare the data into the two meaningful sets. The group will split u
 Plausible Topics of Interest: 
 James: Impact of mask mandates on unemployment - does it facilitate or push people away from work?
 Impact of mask mandates on federal payouts - does it incentives more payout from the government?
+Lag of mask mandates vs changes in political inclination
 
-Elsa: [x]
+Elsa: How mask mandates affect school closures, maybe by county.
+Relation of total school closures and mask mandates.
+Car accidents by county to mask mandates.
 
-Ethan: [x]
+Ethan: Impact of mask mandates on Covid hotspots and outbreaks
+Comparison of timing of mask mandates whether policy was proactive or reactive. in regards to outbreaks and hotspots
+Correlation of mask mandates and vaccination rates for a given area. Are mask mandates predictive of vaccination status.
 
-Steven: [x]
+Steven: Utilization of public places and capacity in regards to mask mandates - does it give more people a peace
+of mind or discourages them to physically go there. Especially resturants. Google maps may have some data on
+usage capacity of places.
 
-Babatunde: [x] 
+Babatunde: CDC says 27x more likely to die from COVID-19 without vaccine. 
+Find a way to use data to validate the claim.
+What type of people takes the vaccine that CDC gathers.
