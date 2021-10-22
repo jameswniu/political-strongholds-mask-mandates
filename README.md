@@ -21,23 +21,23 @@ The second usable dataset is grouped by State by County summing days with mask m
 4.	Research Questions:
 James will prepare the data into the two meaningful sets. The group will split up to do the analysis into diverse but overlapping topics. Based on the data each member is going to find for the right-hand side, he or she will merge records and construct descriptive visuals or correlation analysis. This allows each member to delve deeper into his/her topic of interest, facilitates allocation of individual focus in line with GitLab branches and subsequent time management for collaboration.
 
-Plausible Topics of Interest: 
+Plausible Topics of Interest:
+
 James: Impact of mask mandates on unemployment - does it facilitate or push people away from work?
 Impact of mask mandates on federal payouts - does it incentives more payout from the government?
 Lag of mask mandates vs changes in political inclination
 
 Elsa: How mask mandates affect school closures, maybe by county.
 Relation of total school closures and mask mandates.
-Car accidents by county to mask mandates.
+Car accidents by county and relationship with mask mandates.
 
-Ethan: Impact of mask mandates on Covid hotspots and outbreaks
-Comparison of timing of mask mandates whether policy was proactive or reactive. in regards to outbreaks and hotspots
-Correlation of mask mandates and vaccination rates for a given area. Are mask mandates predictive of vaccination status.
+Ethan: Impact of mask mandates on Covid hotspots and outbreaks.
+Comparison of timing of mask mandates whether policy was proactive or reactive, with regards to outbreaks and hotspots.
+Correlation of mask mandates and vaccination rates for a given area - are mask mandates predictive of vaccination status?
 
-Steven: Utilization of public places and capacity in regards to mask mandates - does it give more people a peace
-of mind or discourages them to physically go there. Especially resturants. Google maps may have some data on
-usage capacity of places.
+Steven: Utilization of public places and capacity in regards to mask mandates, especially with regards to restaurants - does it give more people a peace
+of mind or discourages them to physically go there?  Google maps API etc may have some data on usage capacity of places.
 
 Babatunde: CDC says 27x more likely to die from COVID-19 without vaccine. 
 Find a way to use data to validate the claim.
-What type of people takes the vaccine that CDC gathers.
+What type of people takes the vaccine that CDC gathers? Are the groups who took vaccine as healthy as those who did not?
