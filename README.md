@@ -31,4 +31,30 @@ Ethan: [x]
 
 Steven: [x]
 
-Babatunde: [x] 
+Babatunde: [
+
+James, again, thanks for the above compilation.
+
+As I mentioned at our last session together, it will be beneficial if we could somehow try to deepen the scope of our project.
+
+To illustrate, let us look at the part of the project that you assigned to yourself:
+
+1) "Impact of mask mandates on unemployment - does it facilitate or push people away from work?" - Could you try and explain how you intend to go about that? Are you suggesting that we should try to correlate unemployment information with mask mandate data? What of other factors that could contribute to unemployment at target period, e.g Lock downs? Each US State implemented different measures to try to mitigate the pandemic. Peculiar measures taken by States affected unemployment in ways that would be next to impossible to gauge objectively or empirically. For example some states ordered restaurants shut at varying periods. Except you want to check all these measures implemented by each state that could have skewed unemployment correlation to mask mandate. Guess what? You will have to do that per day per state. Because those measures themselves varied widely by state, by day. For example in Georgia, our Governor renewed state emergency declarations and mandates several times in accordance with covid data.
+
+2) "Impact of mask mandates on federal payouts - does it incentives more payout from the government?" - Does this mean we would try to find some kind of relationship between Government assistance and mask mandate during the period? The bulk of the assistance were from the Federal Government. Meanwhile each state implemented its mask mandates as it deemed necessary. How can one possibly relate the two objectively.
+
+My suggestion:
+We could try to research the effectiveness of Mask Mandates themselves as you suggested before. E.g How many hospitalizations or deaths did mask mandates prevent in each State? We could achieve this by comparing covid-related mortalities for days with mask mandates versus days without. But you have to consider number of days necessary from infection to hospitalization!
+
+ Or we could do some kind of cost-benefit analysis for the mask mandates themselves, considering their impact on the economy.
+
+I will discard (or suspend) the other idea I was suggesting before since it seems there isn't much reception for it. I have gotten some valid data sets for it though, that might prove useful in our project, whichever direction that takes us.
+
+Thank you all,
+
+Best,
+
+Tunde
+
+
+] 
