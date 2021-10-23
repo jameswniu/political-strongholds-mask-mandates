@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Resources/U.S._State_and_Territorial_Public_Mask_Mandates.csv
+Resources/US_Accidents_Dec20_updated.csv
