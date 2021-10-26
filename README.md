@@ -21,40 +21,23 @@ The second usable dataset is grouped by State by County summing days with mask m
 4.	Research Questions:
 James will prepare the data into the two meaningful sets. The group will split up to do the analysis into diverse but overlapping topics. Based on the data each member is going to find for the right-hand side, he or she will merge records and construct descriptive visuals or correlation analysis. This allows each member to delve deeper into his/her topic of interest, facilitates allocation of individual focus in line with GitLab branches and subsequent time management for collaboration.
 
-Plausible Topics of Interest: 
+Plausible Topics of Interest:
+
 James: Impact of mask mandates on unemployment - does it facilitate or push people away from work?
 Impact of mask mandates on federal payouts - does it incentives more payout from the government?
+Lag of mask mandates vs changes in political inclination
 
-Elsa: [x]
+Elsa: Car accidents by county and relationship with mask mandates.
+If data permits also explore how mask mandates affect school closures, maybe by county.
+This represents the relationship between total school closures and mask mandates.
 
-Ethan: [x]
+Ethan: Impact of mask mandates on Covid hotspots and outbreaks.
+Comparison of timing of mask mandates whether policy was proactive or reactive, with regards to outbreaks and hotspots.
+Correlation of mask mandates and vaccination rates for a given area - are mask mandates predictive of vaccination status?
 
-Steven: [x]
+Steven: Utilization of public places and capacity in regards to mask mandates, especially with regards to restaurants - does it give more people a peace
+of mind or discourages them to physically go there?  Google maps API etc may have some data on usage capacity of places.
 
-Babatunde: [
-
-James, again, thanks for the above compilation.
-
-As I mentioned at our last session together, it will be beneficial if we could somehow try to deepen the scope of our project.
-
-To illustrate, let us look at the part of the project that you assigned to yourself:
-
-1) "Impact of mask mandates on unemployment - does it facilitate or push people away from work?" - Could you try and explain how you intend to go about that? Are you suggesting that we should try to correlate unemployment information with mask mandate data? What of other factors that could contribute to unemployment at target period, e.g Lock downs? Each US State implemented different measures to try to mitigate the pandemic. Peculiar measures taken by States affected unemployment in ways that would be next to impossible to gauge objectively or empirically. For example some States ordered restaurants shut at varying periods. Except you want to check all these measures implemented by each State that could have skewed unemployment correlation to mask mandate. Guess what? You will have to do that per day per State. Because those measures themselves varied widely by State, by day. For example in Georgia, our Governor renewed State emergency declarations and mandates several times in accordance with covid data.
-
-2) "Impact of mask mandates on Federal payouts - does it incentives more payout from the government?" - Does this mean we would try to find some kind of relationship between Government assistance and mask mandate during the period? The bulk of the assistance were from the Federal Government. Meanwhile each State implemented its mask mandates as it deemed necessary. How can one possibly relate the two objectively?
-
-My suggestion:
-We could try to research the effectiveness of Mask Mandates themselves as you suggested before. E.g How many hospitalizations or deaths did mask mandates actually prevent in each State? We could achieve this by comparing covid-related mortalities for days with mask mandates versus days without. But you have to consider number of days necessary from infection to hospitalization!
-
- Or we could do some kind of cost-benefit analysis for the mask mandates themselves, considering their impact on the economy.
-
-I will discard (or suspend) the other idea I was suggesting before since it seems there isn't much reception for it. I have gotten some valid data sets for it though, that might prove useful in our project, whichever direction that takes us.
-
-Thank you all,
-
-Best,
-
-Tunde
-
-
-] 
+Babatunde: CDC says 27x more likely to die from COVID-19 without vaccine. 
+However is it possible those who are eager to take vaccine prioritize their health so have better health metrics to begin with.
+With this in mind, to compare COVID-19 survival rates for vaccinated across combinations of high/low income/education counties for conclusion.
