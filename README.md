@@ -27,9 +27,9 @@ James: Impact of mask mandates on unemployment - does it facilitate or push peop
 Impact of mask mandates on federal payouts - does it incentives more payout from the government?
 Lag of mask mandates vs changes in political inclination
 
-Elsa: How mask mandates affect school closures, maybe by county.
-Relation of total school closures and mask mandates.
-Car accidents by county and relationship with mask mandates.
+Elsa: Car accidents by county and relationship with mask mandates.
+If data permits also explore how mask mandates affect school closures, maybe by county.
+This represents the relationship between total school closures and mask mandates.
 
 Ethan: Impact of mask mandates on Covid hotspots and outbreaks.
 Comparison of timing of mask mandates whether policy was proactive or reactive, with regards to outbreaks and hotspots.
@@ -39,5 +39,5 @@ Steven: Utilization of public places and capacity in regards to mask mandates, e
 of mind or discourages them to physically go there?  Google maps API etc may have some data on usage capacity of places.
 
 Babatunde: CDC says 27x more likely to die from COVID-19 without vaccine. 
-Find a way to use data to validate the claim.
-What type of people takes the vaccine that CDC gathers? Are the groups who took vaccine as healthy as those who did not?
+However is it possible those who are eager to take vaccine prioritize their health so have better health metrics to begin with.
+With this in mind, to compare COVID-19 survival rates for vaccinated across combinations of high/low income/education counties for conclusion.
