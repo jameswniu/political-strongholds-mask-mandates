@@ -1,4 +1,4 @@
-﻿# project
+# project
 Team Members (Group Four):  James Niu (Repo Owner), Elsa Hernadez, Ethan Kaufman, Steven Broyles, Babatunde Adefokun
 
 GitLab Collaboration: https://github.com/jameswniu/project.git
