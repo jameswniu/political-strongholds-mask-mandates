@@ -18,7 +18,7 @@ file = 'U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_thro
 #
 # i = 0
 # with open(file, 'r') as fr:
-#     head = 'state,county,month,mask'
+#     head = 'state,county,statefips,countyfips,month,mask'
 #     print(head, file=fw)
 #     print(head)
 #
@@ -42,7 +42,7 @@ file = 'U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_thro
 #         else:
 #             mask = 0
 #
-#         newline = f'{tmp[0]},{tmp[1]},{mth},{mask}'
+#         newline = f'{tmp[0]},{tmp[1]},{tmp[2]},{tmp[3]},{mth},{mask}'
 #         print(newline, file=fw)
 #         print(newline)
 #
@@ -55,16 +55,13 @@ file = 'U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_thro
 ########################################################################################################################
 # create mask mandates by county by month
 ########################################################################################################################
-os.chdir(r'C:\Users\wendi\My Drive\project')
-
-
 fw = open('mandates_by_county_by_month.csv', 'w')
 
 dicy = defaultdict(int)
 pot = defaultdict(int)
 jar = {}
-with open(r'Resources\mandates_raw.csv', 'r') as fr:
-    head = 'state,county,month,maskdays,days,maskcoverage'
+with open(r'mandates_raw.csv', 'r') as fr:
+    head = 'state,county,statefips,countyfips,month,maskdays,days,maskcoverage'
     print(head, file=fw)
     print(head)
 
@@ -74,8 +71,8 @@ with open(r'Resources\mandates_raw.csv', 'r') as fr:
         line = line.strip()
         tmp = line.split(',')
 
-        k = f'{tmp[0]},{tmp[1]},{tmp[2][:6]}'
-        v = int(tmp[3])
+        k = f'{tmp[0]},{tmp[1]},{tmp[2]},{tmp[3]},{tmp[4][:6]}'
+        v = int(tmp[5])
 
         dicy[k] += v
         pot[k] += 1
@@ -102,8 +99,8 @@ fw = open('mandates_by_county.csv', 'w')
 dicy = defaultdict(int)
 pot = defaultdict(int)
 jar = {}
-with open(r'Resources\mandates_raw.csv', 'r') as fr:
-    head = 'state,county,maskdays,days,maskcoverage'
+with open(r'mandates_raw.csv', 'r') as fr:
+    head = 'state,county,statefips,countyfips,maskdays,days,maskcoverage'
     print(head, file=fw)
     print(head)
 
@@ -113,8 +110,8 @@ with open(r'Resources\mandates_raw.csv', 'r') as fr:
         line = line.strip()
         tmp = line.split(',')
 
-        k = f'{tmp[0]},{tmp[1]}'
-        v = int(tmp[3])
+        k = f'{tmp[0]},{tmp[1]},{tmp[2]},{tmp[3]}'
+        v = int(tmp[5])
 
         dicy[k] += v
         pot[k] += 1
@@ -141,8 +138,8 @@ fw = open('mandates_by_state.csv', 'w')
 dicy = defaultdict(int)
 pot = defaultdict(int)
 jar = {}
-with open(r'Resources\mandates_raw.csv', 'r') as fr:
-    head = 'state,maskdays,days,maskcoverage'
+with open(r'mandates_raw.csv', 'r') as fr:
+    head = 'state,statefips,maskdays,days,maskcoverage'
     print(head, file=fw)
     print(head)
 
@@ -152,8 +149,8 @@ with open(r'Resources\mandates_raw.csv', 'r') as fr:
         line = line.strip()
         tmp = line.split(',')
 
-        k = f'{tmp[0]}'
-        v = int(tmp[3])
+        k = f'{tmp[0]},{tmp[2]}'
+        v = int(tmp[5])
 
         dicy[k] += v
         pot[k] += 1
