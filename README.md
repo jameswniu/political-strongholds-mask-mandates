@@ -1,4 +1,4 @@
-# project
+# Political strongholds in the US and their effects on the socio-economic man through the mask mandate
 Team Members (Group Four):  James Niu (Repo Owner), Elsa Hernadez, Ethan Kaufman, Steven Broyles, Babatunde Adefokun
 
 GitLab Collaboration: https://github.com/jameswniu/project.git
@@ -12,7 +12,7 @@ Because Covid-19 is all inclusive in affecting the way we live and how we live a
 2.	Dataset:
 The dataset by the CDC spans 17 months from April 10, 2020 through January 10, 2021 by country by day. Each row represents an individual country for a State on that particular day with Boolean on whether face masks are required in public places. Requirements for face masks have all-encompassing sources and can include executive orders, administrative orders, resolutions, and proclamations.
 
-3.	Data Preparation:
+3.	Data Preparation: https://catalog.data.gov/dataset/u-s-state-and-territorial-public-mask-mandates-from-april-10-2020-through-january-10-2021--e0ce3
 This dataset has 1,594,118 records that is large enough to exceed Excel’s limit (one million records), so we use a simple editor such as Notepad++ to open it.
 We first pick out relevant variables only that we can use to describe and analyze such as the State, country, date, and Boolean on whether mask mandate was in effect on that day. We left out other variables such as State and County FIPS codes and URLs to executive orders.
 The dataset is grouped by State by County by Month that leaves us with approximately 54,000 records. This data is usable to take into account the timeframe and time lags when considering its healthcare, economic, social, political impacts.
