@@ -4,7 +4,8 @@ Intutitively, you can resolve the other files mandates_by_country.csv, mandates_
 you like from the file above.
 
 mandates_by_state.xlsw is just the sorted and filtered version.
-##################################################################################################################
+
+
 analyze_presidential_returns_20211029.ipynb:
 mmandates_by_county_by_month.csv
 mandates_by_county.csv
