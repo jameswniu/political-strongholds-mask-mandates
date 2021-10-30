@@ -1,5 +1,8 @@
 Resources/U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv
 Resources/mandates_raw.csv
+Resources/codebook-us-president-1976-2020.md
+Resources/County Presidential Returns 2000-2020.md
+
 api_keys.py
 Images/*.jpg
 
