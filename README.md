@@ -1,5 +1,5 @@
 # Political strongholds in the US and their effects on the socio-economic man through the mask mandate
-Team Members (Group Four):  James Niu (Repo Owner), Elsa Hernadez, Ethan Kaufman, Steven Broyles, Babatunde Adefokun
+Team Members (Group Four):  James N (Repo Owner), Elsa H, Ethan K, Steven B, Babatunde A
 
 GitLab Collaboration: https://github.com/jameswniu/project.git
 
