@@ -1,6 +1,7 @@
 # Political strongholds in the US and their effects on the socio-economic man through the mask mandate
 
 Showcase URL: https://wendiniu.wixsite.com/bcsproject1
+
 GitLab Repo: https://github.com/jameswniu/project.git
 
 
